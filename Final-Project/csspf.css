@@ -1,0 +1,43 @@
+nav{ background-color: blue; height: 70px; }
+#navigation{ 
+display: inline; 
+ margin: 10 ;
+  padding: 50 ;
+  list-style: none ;
+  text-align: center ;
+}
+
+#navigation li {
+  display: inline ;
+  margin-right: 1px ;
+  color: #fff ;
+   
+}
+
+#navigation li a {
+  padding: 10px 20px ;
+  color: #fff ;
+  font: 1em "Trebuchet MS",Arial,sans-serif ;
+  line-height: 1em ;
+  text-align: left ;
+  text-decoration: none ;
+}
+
+#navigation li a:hover, #navigation li a:focus, #navigation li a:active {
+  background: #900 ;
+  text-decoration: underline ;
+}
+
+body {
+	background-repeat: no-repeat;
+	background-color: #fff;
+	background-image: url("images/4.jpg");
+	background-position: center;
+	height: 700px;
+}
+
+ul {
+	border-spacing: 10;
+	position: center;
+
+}
