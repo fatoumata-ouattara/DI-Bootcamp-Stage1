@@ -1,0 +1,27 @@
+#div1{
+	background-color: #ffe4b5;
+    width: 800px; height: 600px;
+    text-align: center;
+    border-style: dashed;
+    margin: auto;
+}
+
+body{
+	background-color: #f4a460;
+}
+
+.d{
+text-align: center;
+
+
+}
+
+.p {
+	font-family: sans-serif;
+	font-size: 25px ;
+	font-weight: bold;
+
+}
+ul{
+	list-style-type: none;
+}

@@ -1,9 +1,20 @@
 #wrap{
-	background-color: powderblue;
+	background-color: #00bfff;
+    width: 800px; height: 600px
+}
+
+.d{
+text-align: center;
+
 
 }
 
-.copyright{
+.p {
+	font-family: sans-serif;
+	font-size: 25px ;
+	font-weight: bold;
 
-	
+}
+ul{
+	list-style-type: none;
 }
