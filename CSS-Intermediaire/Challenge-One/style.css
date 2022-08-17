@@ -1,14 +1,16 @@
 body{
 	background-color: #4682b4;
 	text-align: center;
+	height: 800px;
+	width: auto;
 }
 
 .div1{
 
 	background-color: #afeeee;
-	transform-origin: left;
+	float: left;
+	height: 700px;
 	width: 200px;
-	
 }
 
 .div2{
@@ -16,20 +18,13 @@ text-align: center ;
 background-color: #1e90ff;
 margin: auto;
 width: 1000px;
-height: 800px
+height: 700px
 
 }
-ul{
-	list-style-type: none;
-}
 
-.div3{
-text-align: center;
-background-color: gray;
-margin: auto;
-width: 200px;
-height: 600px
-margin-top: 0 10px.}
+li {
+	text-align: left;
+}
 
 .p {
 	font-family: sans-serif;
