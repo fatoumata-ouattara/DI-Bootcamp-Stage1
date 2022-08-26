@@ -1,0 +1,31 @@
+body {
+	width: 100%;
+	margin: 0 20px;
+	text-align: center;
+}
+
+
+div, footer {
+	display: inline-block;
+	height: 100px;
+}
+
+.contenair {
+	margin: 20px 0px
+}
+.left-pane{
+	width: 25%;
+	background:red;
+
+}
+
+.right-pane {
+	width: 65%;
+	background-color: lightblue;
+
+}
+
+footer {
+	width: 94.5%;
+	background: yellow;
+}
